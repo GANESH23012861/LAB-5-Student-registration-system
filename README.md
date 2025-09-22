@@ -1,6 +1,6 @@
-# LAB-5-Student-registration-system
-# NAME : AKSHAYAA M T
-# REGISTER NUMBER : 212223110002
+ # LAB-5-Student-registration-system
+# NAME : selvaganesh R
+# REGISTER NUMBER : 212223230200
 # DATE : 
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
